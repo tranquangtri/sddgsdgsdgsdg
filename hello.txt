@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dsgsgsgdddddddddddd
+=======
+dgsgsdg
+dsgdgdsgdsgsgsg
+>>>>>>> 31f45e1b67f658159f24a4ed185a9b4f525b501a
