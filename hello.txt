@@ -1,1 +1,4 @@
-12324sgsdhsdhsdh
+void main(int argc, const char* argv[]){
+printf("23");
+return 1;
+}
