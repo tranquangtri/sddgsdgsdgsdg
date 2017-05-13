@@ -1,1 +1,3 @@
-12324sgsdhsdhsdh
+void main(int argc, const char* argv[]){
+return 0;
+}
